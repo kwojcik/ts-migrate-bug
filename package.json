@@ -1,0 +1,12 @@
+{
+  "name": "ts-migrate-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kwojcik/ts-migrate-bug.git",
+  "author": "Kevin Wojcik <kevin.wojcik@appfolio.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-migrate": "^0.1.31",
+    "typescript": "^4.7.4"
+  }
+}
